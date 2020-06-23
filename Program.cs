@@ -15,18 +15,18 @@ namespace TugasLab8
 
             Karyawantetap karyawanTetap = new Karyawantetap();
             karyawanTetap.Nik = "12345678910";
-            karyawanTetap.Nama = "Kim Seokjin";
+            karyawanTetap.Nama = "Bambank";
             karyawanTetap.GajiBulanan = 4000000;
 
             KaryawanHarian karyawanHarian = new KaryawanHarian();
             karyawanHarian.Nik = "101112131415";
-            karyawanHarian.Nama = "Kim Taehyung";
+            karyawanHarian.Nama = "Asep";
             karyawanHarian.JumlahJamKerja = 50;
             karyawanHarian.UpahPerJam = 30000;
 
             Sales sales = new Sales();
             sales.Nik = "161718192021";
-            sales.Nama = "Jeon Jungkook";
+            sales.Nama = "Dipsi";
             sales.JumlahPenjualan = 100;
             sales.Komisi = 10000;
 
