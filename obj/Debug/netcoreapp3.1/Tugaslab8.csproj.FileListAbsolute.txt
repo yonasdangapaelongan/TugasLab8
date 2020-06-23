@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\bin\Debug\netcoreapp3.1\Tugaslab8.exe
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\bin\Debug\netcoreapp3.1\Tugaslab8.deps.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\bin\Debug\netcoreapp3.1\Tugaslab8.runtimeconfig.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\bin\Debug\netcoreapp3.1\Tugaslab8.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\bin\Debug\netcoreapp3.1\Tugaslab8.dll
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\bin\Debug\netcoreapp3.1\Tugaslab8.pdb
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\obj\Debug\netcoreapp3.1\Tugaslab8.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\obj\Debug\netcoreapp3.1\Tugaslab8.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\obj\Debug\netcoreapp3.1\Tugaslab8.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\obj\Debug\netcoreapp3.1\Tugaslab8.AssemblyInfo.cs
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\obj\Debug\netcoreapp3.1\Tugaslab8.dll
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\obj\Debug\netcoreapp3.1\Tugaslab8.pdb
+C:\Users\ASUS\Documents\19.11.2823_YonasDangaPaelongan\APribadi\Tugaslab8\Tugaslab8\Tugaslab8\Tugaslab8\obj\Debug\netcoreapp3.1\Tugaslab8.genruntimeconfig.cache
